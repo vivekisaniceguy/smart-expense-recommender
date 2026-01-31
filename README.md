@@ -67,8 +67,10 @@ Reduce Shopping Spending
 Suggested reduction: ₹1800
 Overspend ratio: 1.6×
 Similar users success rate: 72%
+---
 
 ## Evaluation Approach
+
 Traditional accuracy metrics are not suitable for this problem.
 The system is evaluated using:
 
@@ -79,5 +81,6 @@ Month-over-month spending improvement
 Recommendation adoption rate
 
 Overall budget adherence
+
 
 
