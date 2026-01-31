@@ -80,8 +80,8 @@ Month-over-month spending improvement
 
 Recommendation adoption rate
 
-Overall budget adherence
 ---
+
 
 
 
